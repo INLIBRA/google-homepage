@@ -1,0 +1,92 @@
+#input {
+	display: block;
+	position: relative;
+	float: center;
+	margin: 15% 35%;
+}
+
+#google {
+	position: relative;
+	float: center;
+	margin-bottom: 30px;
+}
+
+.btn1 {
+	padding: 10px 20px;
+	/*margin: 7% 2%;*/
+	color: #777;
+	background-color: #eee;
+	font-weight: 700;
+	font-size: 0.8em;
+	border: none;
+	position: relative;
+	/*float: left;*/
+	top: 30px;
+	/*right: 20px;*/
+	margin-right: 5px;
+}
+
+.btn2 {
+	padding: 10px 20px;
+	/*margin: 7% 2%;*/
+	color: #777;
+	background-color: #eee;
+	font-weight: 700;
+	font-size: 0.8em;
+	border: none;
+	position: relative;
+	/*float: left;*/
+	top: 30px;
+}
+
+#buttons {
+	display: inline;
+	position: relative;
+	float: center;
+	/*margin-top: 100px;*/
+}
+
+#input-field {
+	position: relative;
+	/*float: center;*/
+	right: 150px;
+	border: 1px solid blue;
+}
+
+#paragraph {
+	position: relative;
+	top: 40px;
+	right: 30px;
+	font-size: 0.9em;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#links {
+	position: absolute;
+	top: 20px;
+	right: 30px;
+}
+
+.link {
+	margin-right: 15px;
+	color: #666;
+	font-size: 0.9em;
+}
+
+#sign-in {
+	background-color: #4285f4;
+	padding: 7px 15px;
+	color: white;
+	border-radius: 7%;
+	font-size: 0.9em;
+	font-weight: 600;
+	text-decoration: none;
+}
+
